@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.home {
+    background-color: #020d2f; 
+}
+
+.services {
+    background-color: rgba(24, 26, 0, 0.068); 
+    text-align: center;
+    color:rgb(6, 35, 164);
+}
+
+.contact {
+    background-color: #bc7625e9; 
+    text-align: center;
+    color: rgb(7, 45, 168);
+}
+
+header {
+    background: #a6b5b2;
+    color: rgba(233, 81, 11, 0.948);
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+    font-family: 'Lucida Sans Unicode';
+}
+
+.navbar a {
+    color: white;
+    margin: 0 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+.hero {
+    text-align: center;
+    padding: 20px 10px;
+    color:antiquewhite;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 60px;
+    padding: 25px;
+}
+
+.gallery img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between; 
+    gap: 10px; 
+    flex-wrap: wrap;
+    color:rgb(5, 21, 162);
+}
+
+.flex-container img {
+    display: flexbox;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    margin: auto;
+}
+
+.contact-form input,
+.contact-form textarea {
+    margin: 13px 0;
+    padding: 12px;
+}
+
+.contact-form button {
+    background: #333;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background: #4146cf;
+}
+
+footer {
+    color: rgb(141, 31, 3);
+    text-align: start;
+    margin: 13px 0;
+    padding: 15px;
+}
