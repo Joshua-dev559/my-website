@@ -25,3 +25,7 @@ The website has several features;
 The website has been built through different programming languages;
 - HTML
 - CSS 
+
+## Tools Used
+- VScode
+- Google Chrome
