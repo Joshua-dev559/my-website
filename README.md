@@ -30,8 +30,8 @@ The website has been built through different programming languages;
 - VScode
 - Google Chrome
 
-## LICENSE
+## License
 MIT license.
 
-## AUTHOR
+## Author
 Joshua Mbilli.
