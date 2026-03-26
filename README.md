@@ -31,7 +31,7 @@ The website has been built through different programming languages;
 - Google Chrome
 
 ## LICENSE
-MIT license
+MIT license.
 
 ## AUTHOR
-Joshua Mbilli
+Joshua Mbilli.
