@@ -29,3 +29,9 @@ The website has been built through different programming languages;
 ## Tools Used
 - VScode
 - Google Chrome
+
+## LICENSE
+MIT license
+
+## AUTHOR
+Joshua Mbilli
